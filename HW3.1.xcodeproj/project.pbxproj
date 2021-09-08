@@ -13,6 +13,7 @@
 		D45EC56926E9471700E0A8CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D45EC56826E9471700E0A8CA /* Assets.xcassets */; };
 		D45EC56C26E9471700E0A8CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D45EC56B26E9471700E0A8CA /* Preview Assets.xcassets */; };
 		D45EC56F26E9471700E0A8CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D45EC56D26E9471700E0A8CA /* LaunchScreen.storyboard */; };
+		D45EC57726E947F900E0A8CA /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45EC57626E947F900E0A8CA /* ColorCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D45EC56B26E9471700E0A8CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D45EC56E26E9471700E0A8CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D45EC57026E9471700E0A8CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D45EC57626E947F900E0A8CA /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D45EC56226E9471600E0A8CA /* AppDelegate.swift */,
 				D45EC56426E9471600E0A8CA /* SceneDelegate.swift */,
 				D45EC56626E9471600E0A8CA /* ContentView.swift */,
+				D45EC57626E947F900E0A8CA /* ColorCircle.swift */,
 				D45EC56826E9471700E0A8CA /* Assets.xcassets */,
 				D45EC56D26E9471700E0A8CA /* LaunchScreen.storyboard */,
 				D45EC57026E9471700E0A8CA /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D45EC56326E9471600E0A8CA /* AppDelegate.swift in Sources */,
+				D45EC57726E947F900E0A8CA /* ColorCircle.swift in Sources */,
 				D45EC56526E9471600E0A8CA /* SceneDelegate.swift in Sources */,
 				D45EC56726E9471600E0A8CA /* ContentView.swift in Sources */,
 			);
